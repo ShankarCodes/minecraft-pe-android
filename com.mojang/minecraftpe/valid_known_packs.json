@@ -1,0 +1,213 @@
+
+[
+	
+	{
+		"file_version" : 2
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "behavior_packs/vanilla",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "behavior_packs/vanilla_1.14",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.14.0"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "behavior_packs/vanilla_experimental",
+		"uuid" : "47db1a44-55b4-4d4e-aa0f-d5de6206a0fd",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "behavior_packs/chemistry",
+		"uuid" : "6baf8b62-8948-4c99-bb1e-a0cb35dc4579",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "0lhoB0BXAOCpYCwpLTHL3QrHX7/7b619fV5g7+6MAfk=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/7XghXuvrAAA=",
+		"uuid" : "97d1045a-a539-4130-9135-0196b529d953",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "S7Mh3NypQMLRuZT8OLBoi5bKOuOow58MepWLO3Dia/Q=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/+nghXsIeAQA=",
+		"uuid" : "5f5376c3-ee41-46e9-9e7c-b7c0569ff069",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "6GHOHu7WiAoQHB8zaeTY+jLi6x1z/88vDB+I1xDCQO0=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/6XghXv3cAAA=",
+		"uuid" : "eed189fe-218e-41ed-91fb-4cd9e176e17e",
+		"version" : "1.1.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "j8GhT+9k+Z9Nzj2CjUBiNQQOnQw4KKltwWDSvu4wJlo=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/83ghXuEDAQA=",
+		"uuid" : "45889b11-460e-424c-9058-7f14e99421c1",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "resource_packs/vanilla_vr",
+		"uuid" : "7b0f36ed-03c7-4fdf-8ba9-44ce20668861",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "98KbMvGLGY2bbA37sF+kBW/ybONDYagh24TFQF0iY1Y=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/-HghXkklAQA=",
+		"uuid" : "cfbbbcb3-c04b-4ce9-97ba-3fbe7f8a6c15",
+		"version" : "1.0.1"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "resource_packs/chemistry",
+		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "resource_packs/vanilla_base",
+		"uuid" : "9ae3d2cc-7811-404c-b578-cb27689c8ac5",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "dOoOxPfqCx+ugLQjLr2sfLtAoGFSyk/z0dE1sbY7MEQ=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/8HghXun5AAA=",
+		"uuid" : "b743e728-fe6b-49d0-8a41-70124ffc09f2",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/6Pw6XmH2AAA=",
+		"uuid" : "175fccbe-8e91-4bd4-9e30-52192ae2ea97",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "9mqodyVGnUrZPnzgZQfta5E5XwfWRQSjI3kxIzXXkXQ=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/+HghXrEXAQA=",
+		"uuid" : "6b22ea2b-bac1-4c07-95a1-bc7bc5818b1c",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/Y44+Xr3VAAA=",
+		"uuid" : "0bd9eba4-2ae7-482f-a759-57943b87daa2",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "Ujy/B+mXmLYnj51nMowTejkv1SFgnx5BxGFfswlbVxs=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/63ghXuzkAAA=",
+		"uuid" : "aeddad12-2861-4925-9e84-40763aa7c398",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "U8UnVu4kgd5RwpwiBgTKi2Xy/VzZPaXLesgVGgXHYls=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/73ghXoryAAA=",
+		"uuid" : "759164d6-e772-44d4-91d8-f9159cbf6f52",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "3CZrSMRmumrOFcq6CGQICwLEa8sPl1bRtQvO21NrIag=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/9XghXkUKAQA=",
+		"uuid" : "d359103f-347f-46f6-bd53-8d08d5f6a0fc",
+		"version" : "1.1.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/bEExXnyyAAA=",
+		"uuid" : "0538efae-e9c3-404c-ae7f-d2d5f6ecb1c8",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "IaWT9hQSow6041X/wpIHItRTuwwzT7jbbLto23YUHc4=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/9nghXtQQAQA=",
+		"uuid" : "457da3f1-a9ff-48b0-bcbb-1276341c984f",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/QXEsXlfJAAA=",
+		"uuid" : "f327e392-3189-49fd-8478-12c2f6cd4753",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "resource_packs/persona",
+		"uuid" : "2099de18-429a-465a-a49b-fc4710a17bb3",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "resource_packs/vanilla_1.14",
+		"uuid" : "0575c61f-a5da-4b7f-9961-ffda2908861e",
+		"version" : "1.14.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "oHr8XisHySo51KrZ/4JZdX+UKOzZsR7sq36k5dhyIHM=" ],
+		"path" : "/data/data/com.mojang.minecraftpe/files/treatments/treatment_packs2/-XghXuIrAQA=",
+		"uuid" : "89e2d895-e758-46f2-a762-1ffc963dea86",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "resource_packs/vanilla",
+		"uuid" : "0575c61f-a5da-4b7f-9961-ffda2908861e",
+		"version" : "0.0.1"
+	}
+]
